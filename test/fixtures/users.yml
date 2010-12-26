@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  Robert: MyString
+  yang: MyString
+  active: false
+
+two:
+  Robert: MyString
+  yang: MyString
+  active: false
